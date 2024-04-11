@@ -1,0 +1,26 @@
+Qual a população do país?
+
+extensão territorial?
+Comidas típicas?
+clima desse pais?
+vegetação?
+relevo?
+
+
+=O Uruguai tem uma população de aproximadamente 3,5 milhões de pessoas, de acordo com estimativas recentes.
+
+r=: O Uruguai possui uma área total de cerca de 176.215 quilômetros quadrados, tornando-se o segundo menor país da América do Sul em termos de área, atrás apenas do Suriname.
+
+r= A culinária uruguaia é influenciada principalmente pela carne bovina e pelos produtos lácteos. Algumas comidas típicas incluem:
+
+Asado: Churrasco uruguaio, geralmente feito com carne bovina, cordeiro e miúdos grelhados lentamente sobre brasas.
+Chivito: Sanduíche de carne de vaca ou lombo de porco com bacon, queijo, alface, tomate, ovo, azeitonas e maionese.
+Milanesa: Carne empanada e frita, muitas vezes servida com batatas fritas ou arroz.
+Choripán: Sanduíche feito com linguiça grelhada (chorizo) e pão.
+Alfajor: Doce popular feito de duas camadas de biscoito, geralmente recheado com doce de leite e coberto com chocolate.
+
+r=O clima do Uruguai é temperado, com verões quentes e úmidos e invernos frescos. As temperaturas são moderadas pela influência do Oceano Atlântico, especialmente nas áreas costeiras. O país também pode experimentar eventos climáticos extremos, como tempestades e ondas de calor.
+
+r= A vegetação do Uruguai é caracterizada por pastagens naturais e pradarias, especialmente nas áreas rurais do interior. As áreas costeiras são marcadas por dunas de areia e vegetação costeira. O país também possui algumas áreas de floresta nativa remanescente, embora grande parte da cobertura florestal original tenha sido substituída por terras agrícolas.
+
+r= O Uruguai é predominantemente plano, com poucas elevações significativas. A maior parte do país é composta por planícies e terras baixas, com algumas colinas baixas no interior. O ponto mais alto do Uruguai é o Cerro Catedral, com apenas 514 metros de altitude.
